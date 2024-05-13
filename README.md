@@ -1,26 +1,23 @@
 <p align="center">
-   <img src="https://github.com/harehimself/pitchboost/blob/master/PitchBoost.png">
+   <img src="https://raw.githubusercontent.com/harehimself/emoji-gen/master/EmojiGen.png">
 </p>
 
 <p align="center">
-   PitchBoost is a modern sales presentation platform designed to revolutionize the way enterprise sellers deliver their pitch. With its interactive and multimedia-rich interface, customizable branding options, and real-time audience engagement tracking tools, PitchBoost ensures that every presentation captivates and resonates with the audience. Collaborative features allow team members to work together seamlessly, while integration with popular productivity tools and CRM systems streamlines the sales process. Offering a truly immersive and data-driven experience, PitchBoost empowers sales professionals to deliver impactful and memorable presentations that drive conversions and strengthen client relationships.
+   EmojiGen is an AI-powered web application that generates unique emojis based on a user's text input. Simply type in any phrase, emotion, or description, and the app will create a personalized emoji that captures the intended meaning. With customizable styles and the ability to combine multiple emojis, EmojiGen offers endless possibilities for creative expression. Enhance your messaging and social media interactions with EmojiGen's one-of-a-kind, on-demand emoji generation capabilities.
 </p>
-
-### **https://pitchboo.st**
-
 <br>
 
 <p align="center">
-  <a href="https://github.com/harehimself/pitchboost/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/harehimself/pitchboost" alt="Contributors"></a>
-  <a href="https://github.com/harehimself/pitchboost/network/members">
-    <img src="https://img.shields.io/github/forks/harehimself/pitchboost" alt="Forks"></a>
-  <a href="https://github.com/harehimself/pitchboost/stargazers">
-    <img src="https://img.shields.io/github/stars/harehimself/pitchboost" alt="Stars"></a>
-  <a href="https://github.com/harehimself/pitchboost/issues">
-    <img src="https://img.shields.io/github/issues/harehimself/pitchboost" alt="Issues"></a>
-  <a href="https://github.com/harehimself/pitchboost/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/harehimself/pitchboost" alt="MIT License"></a>
+  <a href="https://github.com/harehimself/emoji-gen/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/harehimself/emoji-gen" alt="Contributors"></a>
+  <a href="https://github.com/harehimself/emoji-gen/network/members">
+    <img src="https://img.shields.io/github/forks/harehimself/emoji-gen" alt="Forks"></a>
+  <a href="https://github.com/harehimself/emoji-gen/stargazers">
+    <img src="https://img.shields.io/github/stars/harehimself/emoji-gen" alt="Stars"></a>
+  <a href="https://github.com/harehimself/emoji-gen/issues">
+    <img src="https://img.shields.io/github/issues/harehimself/emoji-gen" alt="Issues"></a>
+  <a href="https://github.com/harehimself/emoji-gen/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/harehimself/emoji-gen" alt="MIT License"></a>
 </p>
 
 <br><br>
@@ -31,29 +28,30 @@
 - [Benefits](#benefits)
 - [How It Compares](#how-it-compares)
 - [License](#license)
+<br>
 
 ## Features
-- Interactive and engaging presentation interface with multimedia support (videos, animations, diagrams)
-- Customizable templates and branding options for a professional look and feel
-- Real-time analytics and audience engagement tracking tools
-- Collaborative features for team members to work on presentations together
-- Integration with popular productivity tools and CRM systems
+- Text-to-Emoji Generation: Users can input any text, phrase, or description, and the AI will generate a unique and relevant emoji.
+- Customizable Styles: Offer a range of artistic styles (e.g., cartoon, realistic, abstract) for users to choose from for their generated emojis.
+- Emoji Combinations: Allow users to combine multiple emojis or create compound emojis by providing multiple text inputs.
+- Emotion Detection: Detect the overall sentiment or emotion in the user's input text and generate emojis that accurately reflect those feelings.
+- Shareability: Provide easy sharing options for users to share their generated emojis on social media platforms or messaging apps.
 <br>
 
 ## Benefits
-- Enhance audience engagement and retention of key messages
-- Streamline the sales process with more impactful and memorable presentations
-- Gain valuable insights into audience reactions and preferences
-- Promote team collaboration and consistency in sales messaging
-- Save time and effort with pre-built templates and easy-to-use tools
+- Expressive Communication: Enhance messaging and social media interactions by conveying emotions and ideas through personalized emojis.
+- Creativity and Fun: Encourage users' creativity and provide an entertaining experience by allowing them to generate unique emojis on demand.
+- Time-Saving: Eliminate the need to search through existing emoji libraries by generating custom emojis tailored to specific contexts.
+- Brand Building: Enable businesses and individuals to create branded emojis that align with their identities and messaging.
+- Accessibility: Offer a new way for users to communicate and express themselves, especially for those with language barriers or disabilities.
 <br>
 
 ## How It Compares
-- More interactive and dynamic than traditional slide-based presentations
-- Offers advanced analytics and engagement tracking capabilities
-- Seamless integration with existing enterprise tools and workflows
-- Collaborative features not found in most presentation software
-- Tailored specifically for enterprise sales teams, with a focus on ROI and conversion
+- Unique Concept: Unlike existing emoji keyboards or libraries, EmojiGen generates entirely new emojis based on user input, offering a novel experience.
+- Personalization: Provides a level of personalization and customization not available with pre-existing emoji sets.
+- AI-Powered: Leverages advanced AI technology to interpret text and generate emojis, enabling a more dynamic and intelligent experience.
+- Scalability: As an AI-driven solution, EmojiGen can potentially generate an infinite number of emojis, far exceeding the limitations of static emoji libraries.
+- Cross-Platform Compatibility: Can be integrated into various messaging platforms, social media apps, and operating systems, expanding its reach and accessibility.
 <br>
 
 ## License
