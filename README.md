@@ -1,1 +1,60 @@
-blah
+<p align="center">
+   <img src="https://github.com/harehimself/pitchboost/blob/master/PitchBoost.png">
+</p>
+
+<p align="center">
+   PitchBoost is a modern sales presentation platform designed to revolutionize the way enterprise sellers deliver their pitch. With its interactive and multimedia-rich interface, customizable branding options, and real-time audience engagement tracking tools, PitchBoost ensures that every presentation captivates and resonates with the audience. Collaborative features allow team members to work together seamlessly, while integration with popular productivity tools and CRM systems streamlines the sales process. Offering a truly immersive and data-driven experience, PitchBoost empowers sales professionals to deliver impactful and memorable presentations that drive conversions and strengthen client relationships.
+</p>
+
+### **https://pitchboo.st**
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/harehimself/pitchboost/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/harehimself/pitchboost" alt="Contributors"></a>
+  <a href="https://github.com/harehimself/pitchboost/network/members">
+    <img src="https://img.shields.io/github/forks/harehimself/pitchboost" alt="Forks"></a>
+  <a href="https://github.com/harehimself/pitchboost/stargazers">
+    <img src="https://img.shields.io/github/stars/harehimself/pitchboost" alt="Stars"></a>
+  <a href="https://github.com/harehimself/pitchboost/issues">
+    <img src="https://img.shields.io/github/issues/harehimself/pitchboost" alt="Issues"></a>
+  <a href="https://github.com/harehimself/pitchboost/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/harehimself/pitchboost" alt="MIT License"></a>
+</p>
+
+<br><br>
+
+## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Features](#features)
+- [Benefits](#benefits)
+- [How It Compares](#how-it-compares)
+- [License](#license)
+
+## Features
+- Interactive and engaging presentation interface with multimedia support (videos, animations, diagrams)
+- Customizable templates and branding options for a professional look and feel
+- Real-time analytics and audience engagement tracking tools
+- Collaborative features for team members to work on presentations together
+- Integration with popular productivity tools and CRM systems
+<br>
+
+## Benefits
+- Enhance audience engagement and retention of key messages
+- Streamline the sales process with more impactful and memorable presentations
+- Gain valuable insights into audience reactions and preferences
+- Promote team collaboration and consistency in sales messaging
+- Save time and effort with pre-built templates and easy-to-use tools
+<br>
+
+## How It Compares
+- More interactive and dynamic than traditional slide-based presentations
+- Offers advanced analytics and engagement tracking capabilities
+- Seamless integration with existing enterprise tools and workflows
+- Collaborative features not found in most presentation software
+- Tailored specifically for enterprise sales teams, with a focus on ROI and conversion
+<br>
+
+## License
+Released under the permissive MIT License. Allows free use, modification, and distribution.
